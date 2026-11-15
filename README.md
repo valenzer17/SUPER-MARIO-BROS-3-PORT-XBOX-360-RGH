@@ -1,8 +1,8 @@
-Super Mario Bros. 3 HD – Xbox 360
+SUPER MARIO BROS 3 HD / PORT XBOX 360 RGH
 
-Super Mario Bros. 3 para Xbox 360 (RGH)
+Super Mario Bros 3 para Xbox 360 (RGH)
 
-Un port funcional de Super Mario Bros. 3 para Xbox 360, adaptado para ejecutarse directamente en la consola mediante RGH.
+Un port funcional de Super Mario Bros 3 para Xbox 360, adaptado para ejecutarse directamente en la consola mediante RGH.
 
 El proyecto permite disfrutar del clásico de NES en Xbox 360, con una presentación adaptada a la plataforma.
 
@@ -52,11 +52,11 @@ Este proyecto es independiente y no está afiliado, asociado ni respaldado ofici
 
 -------------ENGLISH------------------
 
-Super Mario Bros. 3 HD – Xbox 360
+SUPER MARIO BROS 3 HD / PORT XBOX 360 RGH
 
-Super Mario Bros. 3 for Xbox 360 (RGH)
+Super Mario Bros 3 for Xbox 360 (RGH)
 
-A fully functional port of Super Mario Bros. 3 for Xbox 360, adapted to run directly on the console through RGH.
+A fully functional port of Super Mario Bros 3 for Xbox 360, adapted to run directly on the console through RGH.
 
 This project allows you to enjoy the NES classic on Xbox 360, with a presentation adapted to the platform.
 
@@ -85,7 +85,7 @@ START + BACK (hold for 2.5 seconds)| Exit the game
 
 Project Information
 
-- Game: Super Mario Bros. 3
+- Game: Super Mario Bros 3
 - Platform: Xbox 360
 - Compatibility: RGH
 - Version: 1.0
